@@ -28,10 +28,9 @@
 - Streamlit (для веб-интерфейса)
 
 ## 🚀 Как запустить
-
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/AhmedovE1704/house-prices-prediction.git
+   git clone https://github.com/AhmedovE1704/Data-Science-Learn-day-2.git
    cd house-prices-prediction
 2. Установите зависимости:
    pip install -r requirements.txt
@@ -71,7 +70,7 @@ I'm still studying this code to fully understand the inner kitchen. If you find 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AhmedovE1704/house-prices-prediction.git
+   git clone https://github.com/AhmedovE1704/Data-Science-Learn-day-2.git
    cd house-prices-prediction
 2. Install the dependencies:
    pip install -r requirements.txt
